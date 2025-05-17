@@ -14,5 +14,5 @@ print(2)
         #statement1
         #statement2 // these statement comes inside if condition
 
-#statement3 // this perticular statement is nit a part of if condition statement 
+#statement3 // this perticular statement is not a part of if condition statement 
 
